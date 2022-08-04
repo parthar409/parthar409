@@ -1,4 +1,4 @@
-![Github Banner](assets/github-banner.jpeg)
+![Github Banner](https://github.com/parthar409/parthar409/blob/main/assets/github-baner.jpeg)
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
