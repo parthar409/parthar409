@@ -51,7 +51,7 @@ I build clean, scalable, and user-friendly web and mobile applications, and I en
 
 ## 📊 GitHub Stats
 
-![Partha Sarathi Roy GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthar409&show_icons=true&theme=tokyonight)
+![Partha Sarathi Roy GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthar409&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
